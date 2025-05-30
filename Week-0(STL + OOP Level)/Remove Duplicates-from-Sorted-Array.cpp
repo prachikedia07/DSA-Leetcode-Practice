@@ -10,7 +10,7 @@
 
 
 
-//Below is a two pointer optimized approach: 
+//Below is a two pointer approach: 
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
