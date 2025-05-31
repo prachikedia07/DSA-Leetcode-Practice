@@ -11,3 +11,9 @@ This repository contains my daily solutions and notes for **Week 0** of my DSA p
 ### 🟦 Day 1 – Arrays & Hash Map Basics
 - [x] **Two Sum**
 - [x] **Remove Duplicates from Sorted Array**
+### 🟦  Day 2 - Arrays + STL Practice
+- [x]  **Merge Sorted Array**
+- [x] **Intersection of Two Arrays II**
+### 🟦  Day 3 - Stack Applications
+- [x]  **Valid Parentheses**
+- [x] **Min Stack**
