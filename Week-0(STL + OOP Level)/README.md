@@ -17,3 +17,9 @@ This repository contains my daily solutions and notes for **Week 0** of my DSA p
 ### 🟦  Day 3 - Stack Applications
 - [x]  **Valid Parentheses**
 - [x] **Min Stack**
+### 🟦  Day 4 - Pointers
+- [x]  **Reverse Linked List**
+- [x] **Next Greater Element I**
+### 🟦  Day 5 - Stacks and Queues
+- [x]  **Implement Queues using Stack**
+- [x] **Implement Stack using Queues**
