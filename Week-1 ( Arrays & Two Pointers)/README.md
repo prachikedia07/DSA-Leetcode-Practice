@@ -7,6 +7,8 @@ This week focuses on mastering fundamental array operations and two-pointer tech
 - Subarrays
 - In-place Updates
 - Two Pointers (Start-End Window, Fast-Slow Pointer)
+- Sliding Window
+
 
 ---
 
@@ -23,12 +25,12 @@ This week focuses on mastering fundamental array operations and two-pointer tech
 |----|------------------------------------------|------------|----------|
 | 1  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy       | ✅ Solved |
 | 2  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)           | Easy       | ✅ Solved |
-| 3  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | ⬜ Pending |
-| 4  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy       | ⬜ Pending |
+| 3  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | ✅ Solved |
+| 4  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy       | ✅ Solved |
 | 5  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium     | ✅ Solved |
 | 6  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium     | ✅ Solved |
-| 7  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Medium     | ⬜ Pending |
-| 8  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium     | ⬜ Pending |
+| 7  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Medium     | ✅ Solved |
+| 8  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium     | ✅ Solved |
 | 9  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Hard       | ⬜ Pending |
 | 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard       | ⬜ Pending |
 
@@ -42,7 +44,7 @@ This week focuses on mastering fundamental array operations and two-pointer tech
 ---
 
 ## 🚀 Progress Tracker
-- [x] Completed 4 out of 10 problems so far.
+- [x] Completed 8 out of 10 problems so far.
 - Continue working through the remaining problems over the week.
 
 ---
