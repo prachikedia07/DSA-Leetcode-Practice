@@ -19,7 +19,16 @@ A
    O(m)     
                                                                                                 */
 
+//One line approach using STL properties of C++:
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        return haystack.find(needle);
+    }
+};
+```
 
+//Better approach for better working in every platform alogn with handling edge cases:
 class Solution {
 public:
     int strStr(string haystack, string needle) {
