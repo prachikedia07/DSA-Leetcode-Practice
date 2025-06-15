@@ -28,19 +28,9 @@ To strengthen understanding of string manipulation, pointer-based algorithms, an
 
 ---
 
-## 📝 Notes & Strategy
-- Begin the week by revising how C++ handles strings and character arrays.
-- Pay special attention to pointer-based logic and index boundary cases.
-- For binary search problems, understand how matrix can be “flattened” for 1D binary search.
-- End the week with hard problems to build confidence and see how foundational concepts apply to complex questions.
-
----
-
-
 ## 💡 Weekly Tip
 > Strings may look simple, but they’re at the heart of many real-world problems — from parsing data to pattern recognition. Mastering two-pointer and sliding window approaches will unlock many medium and hard problems faster.
 
 ---
 
-✅ Keep pushing! You’re building strong foundations. Let’s crush Week 2! 💪
 
