@@ -31,21 +31,8 @@ This week focuses on mastering fundamental array operations and two-pointer tech
 | 6  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium     | ✅ Solved |
 | 7  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Medium     | ✅ Solved |
 | 8  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium     | ✅ Solved |
-| 9  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Hard       | ⬜ Pending |
-| 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard       | ⬜ Pending |
-
----
-
-## ✍️ Notes
-- Working on a mix of easy to hard problems to gradually build up problem-solving strength.
-- Emphasis on learning patterns rather than brute-forcing solutions.
-- Will revisit unsolved problems for better understanding and reinforcement.
-
----
-
-## 🚀 Progress Tracker
-- [x] Completed 8 out of 10 problems so far.
-- Continue working through the remaining problems over the week.
+| 9  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Hard       | ✅ Solved |
+| 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard       | ✅ Solved |
 
 ---
 
@@ -57,5 +44,4 @@ This week focuses on mastering fundamental array operations and two-pointer tech
 
 ---
 
-Stay consistent and keep learning! 🚀
 
