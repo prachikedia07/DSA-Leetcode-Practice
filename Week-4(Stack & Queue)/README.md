@@ -22,7 +22,7 @@ Take time to understand:
 | 1 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | Stack, Two Pointers |
 | 2 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Stack, Simulation |
 | 3 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design |
-| 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack |
+| 4 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | Stack |
 | 5 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | Stack, Monotonic Stack |
 | 6 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Stack, Monotonic Stack |
 | 7 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Stack |
