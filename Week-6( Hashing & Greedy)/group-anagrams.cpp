@@ -1,4 +1,4 @@
-### ✅ Approach
+/*### ✅ Approach
 
 To group anagrams together, we use a **hash map** where the key is the **sorted version of each string**, and the value is a list of words that are anagrams of that key.
 
@@ -11,12 +11,12 @@ To group anagrams together, we use a **hash map** where the key is the **sorted 
 ### ⏱️ Complexity
 
 - **Time Complexity:**  
-  $$O(n \cdot k \log k)$$  
+  O(n⋅klogk) 
   where `n` is the number of strings and `k` is the maximum length of a string (due to sorting each string).
 
 - **Space Complexity:**  
-  $$O(n \cdot k)$$  
-  to store the strings in the hash map and the result.
+  O(n⋅k)  
+  to store the strings in the hash map and the result.*/
 
 ---
 
