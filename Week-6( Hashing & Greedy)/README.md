@@ -22,7 +22,7 @@
 | 6  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Map + heap/bucket |
 | 7  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Map of sorted strings |
 | 8  | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | Greedy + last index tracking |
-| 9  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Hard | Greedy reach window |
+| 9  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy reach window |
 | 10 | [Candy](https://leetcode.com/problems/candy/) | Hard | Greedy (2-pass logic) |
 
 ---
