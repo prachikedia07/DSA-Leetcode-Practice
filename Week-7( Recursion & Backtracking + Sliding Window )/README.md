@@ -14,7 +14,7 @@
 |----|---------|------------|-------|
 | 1  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Recursion |
 | 2  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Recursion / DP |
-| 3  | [Subsets](https://leetcode.com/problems/subsets/) | Easy | Backtracking |
+| 3  | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Backtracking |
 | 4  | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Easy | Backtracking |
 | 5  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | Sliding Window |
 | 6  | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Backtracking |
