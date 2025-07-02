@@ -16,7 +16,7 @@
 | 2  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Recursion / DP |
 | 3  | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Backtracking |
 | 4  | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Easy | Backtracking |
-| 5  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | Sliding Window |
+| 5  | [Subsets-II](https://leetcode.com/problems/subsets-ii/) | Medium | Backtracking |
 | 6  | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Backtracking |
 | 7  | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Backtracking |
 | 8  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking |
