@@ -29,7 +29,7 @@
 | 1  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                     | Easy       | DFS, Recursion         |
 | 2  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                 | Easy       | DFS, Recursion         |
 | 3  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                             | Easy       | DFS, BFS               |
-| 4  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                       | Easy       | BFS                    |
+| 4  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                       | Medium       | BFS                    |
 | 5  | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                         | Easy       | DFS, Recursion         |
 | 6  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                   | Medium     | BST, Inorder Traversal |
 | 7  | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                            | Medium     | BST, Recursion         |
