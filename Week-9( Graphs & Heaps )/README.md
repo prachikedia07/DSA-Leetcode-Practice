@@ -33,7 +33,7 @@
 
 | # | Problem | Level | Topic |
 |---|---------|--------|-------|
-| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟢 Easy | BFS / DFS |
+| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | BFS / DFS |
 | 2 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | DFS |
 | 3 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | Min Heap |
 | 4 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Max Heap |
