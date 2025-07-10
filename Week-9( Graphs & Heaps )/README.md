@@ -37,7 +37,7 @@
 | 2 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | DFS |
 | 3 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | Min Heap |
 | 4 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Max Heap |
-| 5 | [Implement Priority Queue](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/) | 🟢 Easy | STL Practice |
+| 5 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ ) | 🟡 Medium |  Max Heap |
 | 6 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | Graphs, Topo Sort |
 | 7 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | Graph, DFS |
 | 8 | [Dijkstra's Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | 🟡 Medium | Graph, Heaps |
