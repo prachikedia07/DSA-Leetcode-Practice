@@ -39,10 +39,12 @@
 | 4 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Max Heap |
 | 5 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ ) | 🟡 Medium |  Max Heap |
 | 6 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | Graphs, Topo Sort |
-| 7 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | Graph, DFS |
-| 8 | [Dijkstra's Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | 🟡 Medium | Graph, Heaps |
-| 9 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | Graph, Backtracking |
-| 10 | [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | 🔴 Hard | Graph, Topo Sort |
+| 7 | [Course Schedule-II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | Graphs, Topo Sort |
+| 8 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | 🟡 Medium | Graphs, Topo Sort |
+| 9 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | Graph, DFS |
+| 10 | [Dijkstra's Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | 🟡 Medium | Graph, Heaps |
+| 11 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | Graph, Backtracking |
+| 12 | [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | 🔴 Hard | Graph, Topo Sort |
 
 ---
 
