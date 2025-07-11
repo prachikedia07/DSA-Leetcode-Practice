@@ -42,7 +42,7 @@
 | 7 | [Course Schedule-II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | Graphs, Topo Sort |
 | 8 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | 🟡 Medium | Graphs, Topo Sort |
 | 9 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | Graph, DFS |
-| 10 | [Dijkstra's Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | 🟡 Medium | Graph, Heaps |
+| 10 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | Graph, Heaps |
 | 11 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | Graph, Backtracking |
 | 12 | [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | 🔴 Hard | Graph, Topo Sort |
 
